@@ -1,0 +1,33 @@
+{
+  "name": "mongocrud",
+  "version": "1.0.0",
+  "description": "MongoDB +Nodejs + Express; crud api example for medical APP",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tecnoll/nodejsapi.git"
+  },
+  "keywords": [
+    "nodejs",
+    "api",
+    "mongodb",
+    "crud",
+    "rest",
+    "express",
+    "caregiverapp"
+  ],
+  "author": "Igdálias Cabamba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tecnoll/nodejsapi/issues"
+  },
+  "homepage": "https://github.com/Tecnoll/nodejsapi#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "mongoose": "^6.1.7"
+  }
+}
